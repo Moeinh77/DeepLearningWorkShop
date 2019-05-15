@@ -2,7 +2,7 @@
 
 Note books used in workshop are uploaded here.
 
-To find slides and videos please go to : [AI.EXT.BASU.AC.IR](http://ai.ext.basu.ac.ir)
+To find slides and videos please go to our website : [AI.EXT.BASU.AC.IR](http://ai.ext.basu.ac.ir)
 
 For more resources on Deep learning and Machine learning please check out: [Jump start machine learning](https://github.com/Moeinh77/jump-start-machine-learning)
 
