@@ -7,5 +7,5 @@ you can find the note books and slides here and to find the videos please go to 
 For more resources on Deep learning and Machine learning please check : [Jump start machine learning](https://github.com/Moeinh77/jump-start-machine-learning)
 
 ![](pictures/photo_2019-05-09_10-26-46.jpg)
-![](photo_2019-05-03_22-23-00.jpg)
+![](pictures/photo_2019-05-03_22-23-00.jpg)
 
