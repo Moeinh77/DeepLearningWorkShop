@@ -1,6 +1,6 @@
 ## Deep learning workshop at BASU 9,May 2019
 
-اسلاید ها و کد های کار گا در این ریپازیتوری موجود هستند 
+اسلاید ها و کد های کارگاه در این ریپازیتوری موجود هستند 
 
 لینک به خبرنامه بسنا: [Link](https://basna.ir/fa/news/2324/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%DA%A9%D8%A7%D8%B1%DA%AF%D8%A7%D9%87-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-%D8%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%A8%D9%88%D8%B9%D9%84%DB%8C-%D8%B3%DB%8C%D9%86%D8%A7-%D8%A8%D8%B1%DA%AF%D8%B2%D8%A7%D8%B1-%D8%B4%D8%AF-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%DB%8C)
 
